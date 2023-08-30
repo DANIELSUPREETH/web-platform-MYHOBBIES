@@ -1,3 +1,39 @@
-.body{
-  background-color: bisque;
+/* Apply styles to the entire body of the webpage */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #131518;
+  margin: 0;
+  padding: 0;
 }
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(252, 248, 251);
+}
+
+h2 { text-align: center;
+  color: cornsilk;
+  margin-top: 15px;
+}
+h3{ color: bisque;
+  text-align: center;
+}
+h4{ color: darkkhaki;
+  text-align: center;
+}
+h5{ color: aliceblue;
+  text-align: center;
+}
+p {text-align: center;
+  color: rgb(242, 240, 245);
+  margin-top: 5px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
